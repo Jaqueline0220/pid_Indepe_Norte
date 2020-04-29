@@ -1,0 +1,50 @@
+body  {
+  margin: 0;
+  padding: 0;
+  background: #777;
+  font-family: arial, helvetica, sans-serif;
+  }
+ 
+#contenedor {
+  width: 900px;
+  margin: 0 auto;
+  }
+ 
+#cabecera {
+  background: #f60;
+  }
+ 
+#principal  {
+  background: #fff;
+  display: table;
+  }
+ 
+#pie  {
+  background: #f60;
+  }
+
+  #cabecera h1  {
+  margin: 0;
+  line-height: 90px;
+  text-align: center;
+  }
+ 
+#pie p  {
+  margin: 0;
+  text-align: center;
+  line-height: 40px;
+  }
+
+  #izquierda  {
+  width: 200px;
+  padding: 10px;
+  display: table-cell;
+  background: #fff;
+  }
+ 
+#central  {
+  padding: 10px;
+  background: #0f6;
+  display: table-cell;
+  width: 660px;
+  }
